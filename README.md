@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Washington Bezerra</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil. I am studying computer engineering and I am an intern at IBM Brazil </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
