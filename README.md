@@ -17,6 +17,7 @@
   ⚙️ Tools: <strong>VS Code, Git and GitHub, Planner, Trello, PyCharm and more.</strong>
 </p>
 
+<br>
 
 <p align="center">
    <a href="https://code.visualstudio.com/">
