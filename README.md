@@ -48,3 +48,20 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/washington-bezerra">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=washington-bezerra&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/washington-bezerra">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=washington-bezerra&hide=html&layout=compact&theme=radical"
+    />
+  </a>
+</p>
