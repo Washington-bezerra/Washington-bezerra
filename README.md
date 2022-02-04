@@ -3,7 +3,7 @@
 
 <img src="./banner.png" max-width="300px" width="40%" align="right">
 
-<p align="left" font-size="200em"> 
+<p align="left"> 
  ✌🏽- Hello, my name is Washington Bezerra. I am <strong>Back-end developer</strong>, <strong>Freelancer</strong> and <strong>Software Engineer Intern at <a href="https://www.creditas.com/">Creditas</a></strong>.
 </p>
 
