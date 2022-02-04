@@ -4,6 +4,7 @@
 
 <img src="./banner.png" max-width="300px" width="40%" align="right">
 
+
 <p align="left"> 
  ✌🏽- Hello, my name is Washington Bezerra. I am <strong>Back-end developer</strong>, <strong>Freelancer</strong> and <strong>Software Engineer Intern at <a href="https://www.creditas.com/">Creditas</a></strong>.
 </p>
@@ -22,10 +23,8 @@
 <br>
 <br>
 
-
-
 <p align="center">
-   <a href="none">
+   <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a>
