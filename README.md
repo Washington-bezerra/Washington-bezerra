@@ -18,7 +18,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
    <a href="https://code.visualstudio.com/">
