@@ -25,7 +25,7 @@
 
 
 <p align="center">
-   <a>
+   <a href=none>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a>
