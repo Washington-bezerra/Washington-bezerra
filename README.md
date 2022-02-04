@@ -1,4 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Washington Bezerra</h1></img>
+<br>
 
 
 <img src="./banner.png" max-width="300px" width="40%" align="right">
