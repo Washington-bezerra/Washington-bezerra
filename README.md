@@ -1,6 +1,20 @@
-<h1 align="center">Hi 👋, I'm Washington Bezerra</h1>
-<h3 align="center">A passionate backend developer from Brazil. I am studying computer engineering and I am an intern at IBM Brazil </h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Washington Bezerra</h1></img>
 
-[![washington-bezerra](https://github-readme-stats.vercel.app/api?username=washington-bezerra&theme=radical)](https://github.com/washington-bezerra/)
 
-[![washington-bezerra](https://github-readme-stats.vercel.app/api/top-langs/?username=washington-bezerra&hide=html&layout=compact&theme=radical)](https://github.com/washington-bezerra/)
+<img src="./banner.png" min-width="300px" max-width="300px" width="50%" align="right">
+
+<p align="left"> 
+ ✌🏽- Hello, my name is Washington Bezerra. I am <strong>Back-end developer</strong>, <strong>Freelancer</strong> and <strong>Software Engineer Intern at <a href="https://www.creditas.com/">Creditas</a></strong>.
+</p>
+
+
+<p align="left">
+ 💡 Skills: <strong>HTML, CSS, JavaScript, Python, Java, PL/SQL, C and Azure.</strong>
+</p>
+
+<p align="left">
+  ⚙️ Tools: <strong>VS Code, Git and GitHub, Planner, Trello, PyCharm and more.</strong>
+</p>
+
+<br>
+<br>
