@@ -14,14 +14,17 @@
  💡 Skills: <strong>HTML, CSS, JavaScript, Python, Java, PL/SQL, C and Azure.</strong>
 </p>
 
+
 <p align="left">
   ⚙️ Tools: <strong>VS Code, Git and GitHub, Planner, Trello, PyCharm and more.</strong>
 </p>
+
 
 <br>
 <br>
 <br>
 <br>
+
 
 <p align="center">
    <a>
@@ -68,4 +71,24 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=washington-bezerra&hide=html&layout=compact&theme=radical"
     />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/_washingtonluis">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/_washingtonluis_"
+    />
+  </a>
+  <a href="https://discord.gg/CvtGmYGJ">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-discord-6610F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.linkedin.com/in/washington-bezerra">
+  </a>
+  <a href="https://www.linkedin.com/in/washington-bezerra">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/-linkedin-6610F2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/washington-bezerra">
+  </a>
+
 </p>
