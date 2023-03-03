@@ -39,21 +39,6 @@
    <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-   </a>
-   <a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
 </p>
 
 <br>
@@ -83,11 +68,6 @@
       align="center"
       src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/_washingtonluis_"
     />
-  </a>
-  <a href="https://discord.gg/CvtGmYGJ">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-discord-6610F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.linkedin.com/in/washington-bezerra">
   </a>
   <a href="https://www.linkedin.com/in/washington-bezerra">
     <img
