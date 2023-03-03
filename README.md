@@ -11,12 +11,12 @@
 
 
 <p align="left">
- 💡 Skills: <strong>HTML, CSS, JavaScript, Python, Java, PL/SQL, C and Azure.</strong>
+ 💡 Skills: <strong>Java, Kotlin, Python, PHP, JavaScript, Spring Boot, Laravel, Docker, Testes, Kafka, SOLID, MySQL, PG</strong>
 </p>
 
 
 <p align="left">
-  ⚙️ Tools: <strong>VS Code, Git and GitHub, Planner, Trello, PyCharm and more.</strong>
+  ⚙️ Tools: <strong>Git and GitHub, Spring, AWS, Docker, Data Base</strong>
 </p>
 
 
