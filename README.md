@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
- ✌🏽- Hello, my name is Washington Bezerra. I am <strong>Back-end developer</strong>, <strong>Freelancer</strong> and <strong>Software Engineer Intern at <a href="https://www.creditas.com/">Creditas</a></strong>.
+ ✌🏽- Hello, my name is Washington Bezerra. I am <strong>Back-end developer</strong>, <strong>Freelancer</strong> and <strong>Software Engineer </strong>.
 </p>
 
 
