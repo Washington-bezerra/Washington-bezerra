@@ -63,12 +63,6 @@
 <br>
 
 <p align="center">
-  <a href="https://instagram.com/_washingtonbezerra">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/_washingtonluis_"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/washington-bezerra">
     <img
          align="center"
